@@ -97,6 +97,7 @@
         <module>hive-manager</module>
         <module>hive-mind</module>
         <module>hive-spring-starter</module>
+        <module>miline-mq-api</module>
     </modules>
 
     <distributionManagement>
